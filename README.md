@@ -1,3 +1,6 @@
+> **Moved.** This module now lives at **[github.com/org-runink/stdx](https://github.com/org-runink/stdx)**.
+> The code is unchanged; only the import path differs. This repository is archived.
+
 # x
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/org-runink/x.svg)](https://pkg.go.dev/github.com/org-runink/x)
